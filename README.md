@@ -71,10 +71,7 @@ We may update this policy. Changes will be posted on:
 - Chrome Web Store listing
 - Extension options page
 
-9. CONTACT
-Questions about privacy? Email: [seu-email@exemplo.com]
-
-10. YOUR RIGHTS
+9. YOUR RIGHTS
 You have the right to:
 - Use the extension without providing any personal data
 - Delete all extension data by uninstalling
